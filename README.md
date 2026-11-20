@@ -1,8 +1,8 @@
 <!-- Profile README · github.com/Pundarikaksha1 -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:050816,48:102044,100:3267E8&amp;text=PUNDARI%20KAKSHA&amp;fontColor=FFFFFF&amp;fontSize=44&amp;fontAlignY=39&amp;desc=FORWARD%20DEPLOYED%20ENGINEER%20%7C%20FULL-STACK%20%7C%20AI%20%26%20ML&amp;descAlignY=61&amp;descSize=16&amp;animation=fadeIn" alt="Pundari Kaksha — Forward Deployed Engineer, Full-Stack Developer, AI and ML" />
+  <img width="100%" src="./assets/profile-banner.svg" alt="Pundari Kaksha — Forward Deployed Engineer, Full-Stack Developer, AI, ML and GenAI" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3200&amp;pause=1300&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=790&amp;lines=Building+software+for+real-world+problems;Full-stack+development+%7C+Python+%7C+AI%2FML;Explore+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve" alt="Animated introduction" />
+  <p><strong>Building software for real-world problems · Python · AI/ML · GenAI</strong></p>
   <br /><br />
   <a href="https://www.linkedin.com/in/vetchangi-pundarikaksha-1267631b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:pundarivetchangi@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-1E293B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
@@ -63,5 +63,4 @@ A multilingual **screening-to-care prototype** supporting registration, clinicia
   <a href="https://www.linkedin.com/in/vetchangi-pundarikaksha-1267631b6/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:pundarivetchangi@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-1E293B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" /></a>
   <br /><br />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=115&amp;color=0:050816,48:102044,100:3267E8" alt="Blue wave footer" />
 </div>

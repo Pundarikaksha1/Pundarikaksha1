@@ -1,50 +1,67 @@
-<!-- GitHub profile README: Pundarikaksha1/Pundarikaksha1 -->
+<!-- Profile README · github.com/Pundarikaksha1 -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0D1117,50:172554,100:2563EB&amp;text=Pundari%20Kaksha&amp;fontColor=FFFFFF&amp;fontSize=44&amp;fontAlignY=40&amp;desc=Forward%20Deployed%20Engineer%20%7C%20Full-Stack%20Developer&amp;descAlignY=62&amp;descSize=16" alt="Pundari Kaksha — Forward Deployed Engineer and Full-Stack Developer" />
-
-  <p><strong>Building useful software for real-world problems.</strong></p>
-  <p>Full-stack development · Python · AI-assisted products</p>
-
-  <a href="https://www.linkedin.com/in/vetchangi-pundarikaksha-1267631b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:pundarivetchangi@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
-  <a href="https://github.com/Pundarikaksha1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow me on GitHub" /></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:050816,48:102044,100:3267E8&amp;text=PUNDARI%20KAKSHA&amp;fontColor=FFFFFF&amp;fontSize=44&amp;fontAlignY=39&amp;desc=FORWARD%20DEPLOYED%20ENGINEER%20%7C%20FULL-STACK%20%7C%20AI%20%26%20ML&amp;descAlignY=61&amp;descSize=16&amp;animation=fadeIn" alt="Pundari Kaksha — Forward Deployed Engineer, Full-Stack Developer, AI and ML" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3200&amp;pause=1300&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=790&amp;lines=Building+software+for+real-world+problems;Full-stack+development+%7C+Python+%7C+AI%2FML;Explore+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve" alt="Animated introduction" />
+  <br /><br />
+  <a href="https://www.linkedin.com/in/vetchangi-pundarikaksha-1267631b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pundarivetchangi@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-1E293B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Pundarikaksha1/My-portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-4F46E5?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Portfolio repository" /></a>
 </div>
 
-## About me
+<br />
 
-I'm **Pundari Kaksha**, a developer focused on forward deployed engineering: understanding a problem with its users, building an end-to-end solution, and improving it through feedback. I work across interfaces, APIs, data, and practical AI integrations. My background in **Human Genetics** gives me a particular interest in healthcare technology.
+## 01 · About me
 
-- **Building:** full-stack applications with clear workflows and usable interfaces.
-- **Exploring:** applied AI/ML and careful evaluation of AI-assisted features.
-- **Approach:** discover → prototype → integrate → test → iterate.
+I'm **Pundari Kaksha**, a developer focused on **forward deployed engineering** and building practical full-stack products. I enjoy turning real user needs into clear workflows, working software, and thoughtful AI integrations. My **Human Genetics** background has also shaped my interest in healthcare technology.
 
-## Tech stack
+> **My approach:** Understand the problem → build the product → integrate the data → test with users → improve.
+
+## 02 · Technologies
 
 <div align="center">
-  <p><strong>Languages &amp; web</strong></p>
+  <h4>Languages &amp; web</h4>
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&amp;theme=dark&amp;perline=8" alt="Python, JavaScript, TypeScript, HTML and CSS" />
-  <p><strong>Frontend &amp; backend</strong></p>
+  <h4>Frontend &amp; backend</h4>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi&amp;theme=dark&amp;perline=8" alt="React, Vite, Tailwind CSS, Node.js, Express and FastAPI" />
-  <p><strong>Data &amp; tools</strong></p>
+  <h4>Data, deployment &amp; tools</h4>
   <img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,vercel,vscode&amp;theme=dark&amp;perline=8" alt="PostgreSQL, Supabase, Git, GitHub, Vercel and VS Code" />
 </div>
 
-## Featured work
+## 03 · AI, ML &amp; GenAI
 
-### [Aarogya Drishti](https://github.com/Pundarikaksha1/Aarogyadrishti)
+I’m interested in bringing intelligent features into useful products, with attention to evaluation, human review, and real-world limitations.
 
-A healthcare screening-to-care prototype designed for clinician-led review, referrals, and follow-up. It brings together a multilingual React interface, a Node API, and Supabase/PostgreSQL workflows. Its AI-assisted screening features are **research-stage** and require clinician review.
-
-**Stack:** React · TypeScript · Vite · Node.js · Supabase · PostgreSQL
-
-[Explore the project →](https://github.com/Pundarikaksha1/Aarogyadrishti)
-
-## Let's connect
-
-I'm interested in forward deployed engineering, full-stack product work, and thoughtful AI applications.
-
-**[LinkedIn](https://www.linkedin.com/in/vetchangi-pundarikaksha-1267631b6/)** · **[Email](mailto:pundarivetchangi@gmail.com)** · **[Portfolio repository](https://github.com/Pundarikaksha1/My-portfolio)**
+| Area | What I’m working on |
+| :--- | :--- |
+| **Artificial intelligence** | AI-assisted application workflows and responsible integration into products. |
+| **Machine learning** | Model evaluation, data quality, and interpreting predictions in context. |
+| **Generative AI** | Exploring LLM APIs, prompt design, retrieval, and useful product experiences. |
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=100&amp;color=0:0D1117,50:172554,100:2563EB" alt="Blue wave footer" />
+  <img src="https://img.shields.io/badge/AI-Applied%20AI-172554?style=for-the-badge&amp;logo=openai&amp;logoColor=67E8F9" alt="Artificial intelligence" />
+  <img src="https://img.shields.io/badge/ML-Model%20Evaluation-172554?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=FACC15" alt="Machine learning" />
+  <img src="https://img.shields.io/badge/GenAI-LLM%20Applications-172554?style=for-the-badge&amp;logo=huggingface&amp;logoColor=FACC15" alt="Generative AI" />
+  <br /><br />
+  <sub>Exploring and learning: ML frameworks, LLM application patterns, and AI evaluation.</sub>
+  <br />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;theme=dark&amp;perline=8" alt="Learning PyTorch, TensorFlow and scikit-learn" />
+</div>
+
+## 04 · Featured project
+
+### 🩺 [Aarogya Drishti](https://github.com/Pundarikaksha1/Aarogyadrishti)
+
+A multilingual **screening-to-care prototype** supporting registration, clinician review, referrals, and follow-up. Built with **React, TypeScript, Vite, Node.js, Supabase, and PostgreSQL**. The AI-assisted screening work is at a **research stage** and remains subject to clinician review.
+
+[View the repository →](https://github.com/Pundarikaksha1/Aarogyadrishti)
+
+## 05 · Connect
+
+<div align="center">
+  <p><strong>Have a real-world problem worth solving? Let's connect.</strong></p>
+  <a href="https://www.linkedin.com/in/vetchangi-pundarikaksha-1267631b6/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:pundarivetchangi@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-1E293B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" /></a>
+  <br /><br />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=115&amp;color=0:050816,48:102044,100:3267E8" alt="Blue wave footer" />
 </div>

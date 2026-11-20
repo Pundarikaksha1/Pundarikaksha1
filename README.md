@@ -1,88 +1,50 @@
--- PREMIUM GITHUB PROFILE | Replace YOUR_USERNAME, YOUR_LINKEDIN and YOUR_EMAIL -->
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:111B38,100:4F46E5&text=PUNDARI%20KAKSHA&fontColor=FFFFFF&fontSize=44&fontAlignY=39&desc=FORWARD%20DEPLOYED%20ENGINEER%20%E2%80%A2%20PYTHON%20FULL-STACK%20%E2%80%A2%20AI%20%2F%20ML&descAlignY=61&descSize=15&animation=fadeIn" alt="Pundari Kaksha — developer profile banner" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=1100&color=67E8F9&center=true&vCenter=true&width=750&lines=Engineering+Solutions+That+Matter;Python+%E2%80%A2+Full-Stack+%E2%80%A2+AI%2FML;From+Real-World+Problems+to+Working+Products;Build+%E2%86%92+Integrate+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Animated professional headline" />
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-172554?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Profile views" /></div>01 / About Me
-class Developer:
-    name = "Pundari Kaksha"
-    focus = [
-        "Forward Deployed Engineering",
-        "Python Full-Stack Development",
-        "Artificial Intelligence & Machine Learning",
-        "Generative AI & Intelligent Applications"
-    ]
+<!-- GitHub profile README: Pundarikaksha1/Pundarikaksha1 -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0D1117,50:172554,100:2563EB&amp;text=Pundari%20Kaksha&amp;fontColor=FFFFFF&amp;fontSize=44&amp;fontAlignY=40&amp;desc=Forward%20Deployed%20Engineer%20%7C%20Full-Stack%20Developer&amp;descAlignY=62&amp;descSize=16" alt="Pundari Kaksha — Forward Deployed Engineer and Full-Stack Developer" />
 
-    approach = "Understand the problem → build → integrate → deploy"
-    mindset = "Practical engineering. Measurable impact. Continuous learning."
+  <p><strong>Building useful software for real-world problems.</strong></p>
+  <p>Full-stack development · Python · AI-assisted products</p>
 
-    def mission(self):
-        return "Turn real-world challenges into reliable software."
-I focus on bridging real-world needs and software delivery—from understanding requirements and designing interfaces to building Python APIs, connecting data, integrating AI, and deploying usable products. My interests include applied AI/ML, intelligent automation, and dependable full-stack systems.
-Engineering philosophy: Build thoughtfully. Ship responsibly. Improve continuously.
+  <a href="https://www.linkedin.com/in/vetchangi-pundarikaksha-1267631b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:pundarivetchangi@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
+  <a href="https://github.com/Pundarikaksha1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow me on GitHub" /></a>
+</div>
 
-02 / Technology Stack
-<div align="center">LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark&perline=12" alt="Python JavaScript TypeScript HTML CSS Bash" />
-FRONTEND ENGINEERING
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma&theme=dark&perline=12" alt="React Next.js Tailwind Bootstrap Vite Figma" />
-BACKEND & APIs
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express,postman&theme=dark&perline=12" alt="Python FastAPI Django Flask Node.js Express Postman" />
-DATA & DATABASES
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark&perline=12" alt="PostgreSQL MySQL MongoDB Redis SQLite" />
-AI & MACHINE LEARNING
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark&perline=12" alt="Python PyTorch TensorFlow scikit-learn OpenCV Anaconda" /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="43" alt="NumPy" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="43" alt="Pandas" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="43" alt="Jupyter" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="43" alt="Matplotlib" />
+## About me
 
+I'm **Pundari Kaksha**, a developer focused on forward deployed engineering: understanding a problem with its users, building an end-to-end solution, and improving it through feedback. I work across interfaces, APIs, data, and practical AI integrations. My background in **Human Genetics** gives me a particular interest in healthcare technology.
 
-CLOUD, DEVOPS & TOOLING
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,aws,gcp,vercel,vscode&theme=dark&perline=12" alt="Git GitHub GitHub Actions Docker Linux AWS Google Cloud Vercel VS Code" /></div><details>
-<summary><b>Explore the full engineering toolkit</b></summary>
-<br />Domain	Tools and concepts
-Full-stack	React, Next.js, HTML/CSS, TypeScript, Python, FastAPI, Django, Flask
-Data	PostgreSQL, MySQL, MongoDB, Redis, SQLite, SQL
-AI/ML	NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, model evaluation
-Generative AI	LLM APIs, Hugging Face, RAG, embeddings, LangChain, AI agents
-Engineering	Git, GitHub, REST APIs, testing, Docker, CI/CD, Linux, deployment
+- **Building:** full-stack applications with clear workflows and usable interfaces.
+- **Exploring:** applied AI/ML and careful evaluation of AI-assisted features.
+- **Approach:** discover → prototype → integrate → test → iterate.
 
+## Tech stack
 
-This is a technology map; retain only tools you have used or clearly label those you are learning.
-</details>03 / AI, ML & Intelligent Systems
-<div align="center"><img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-111827?style=for-the-badge&logo=openai&logoColor=67E8F9" alt="Artificial Intelligence" />
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-111827?style=for-the-badge&logo=scikitlearn&logoColor=FBBF24" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/DEEP_LEARNING-111827?style=for-the-badge&logo=pytorch&logoColor=FB7185" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/GENERATIVE_AI-111827?style=for-the-badge&logo=huggingface&logoColor=FBBF24" alt="Generative AI" />
-<img src="https://img.shields.io/badge/LLM_Applications-1E1B4B?style=flat-square" alt="LLM applications" />
-<img src="https://img.shields.io/badge/RAG-1E1B4B?style=flat-square" alt="RAG" />
-<img src="https://img.shields.io/badge/AI_Agents-1E1B4B?style=flat-square" alt="AI agents" />
-<img src="https://img.shields.io/badge/Model_Evaluation-1E1B4B?style=flat-square" alt="Model evaluation" />
-<img src="https://img.shields.io/badge/Intelligent_Automation-1E1B4B?style=flat-square" alt="Intelligent automation" /></div>Areas of interest: practical ML workflows, responsible model evaluation, LLM-powered features, retrieval-augmented systems, and integrating intelligence into useful software.
-04 / Forward Deployed Engineering
-  DISCOVER          DESIGN            BUILD
-  User needs   →   Architecture   →   Frontend + Backend
-                                           │
-                                           ▼
-  ITERATE       ←   DEPLOY         ←   INTEGRATE
-  Feedback          Test & ship         APIs + AI + Data
-- Discover: translate real-world challenges into clear technical requirements.
-- Build: develop end-to-end web applications and reliable APIs.
-- Integrate: connect databases, third-party services, and AI capabilities.
-- Deliver: test, deploy, observe, and refine the solution.
-05 / GitHub Intelligence
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9" alt="Most used repository languages" /><img width="72%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA" alt="GitHub contribution streak" /><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=67E8F9&line=A78BFA&point=FFFFFF" alt="GitHub contribution activity graph" /></div><sub>Statistics are generated by third-party services and may occasionally be unavailable. Language statistics reflect repositories, not a measured skill level.</sub>
-06 / Let's Connect
-<div align="center">Have a problem worth solving or a product worth building?
+<div align="center">
+  <p><strong>Languages &amp; web</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&amp;theme=dark&amp;perline=8" alt="Python, JavaScript, TypeScript, HTML and CSS" />
+  <p><strong>Frontend &amp; backend</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi&amp;theme=dark&amp;perline=8" alt="React, Vite, Tailwind CSS, Node.js, Express and FastAPI" />
+  <p><strong>Data &amp; tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,vercel,vscode&amp;theme=dark&amp;perline=8" alt="PostgreSQL, Supabase, Git, GitHub, Vercel and VS Code" />
+</div>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/EXPLORE_GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+## Featured work
 
+### [Aarogya Drishti](https://github.com/Pundarikaksha1/Aarogyadrishti)
 
+A healthcare screening-to-care prototype designed for clinician-led review, referrals, and follow-up. It brings together a multilingual React interface, a Node API, and Supabase/PostgreSQL workflows. Its AI-assisted screening features are **research-stage** and require clinician review.
 
-Engineering intelligent solutions for real-world impact.
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:050816,45:111B38,100:4F46E5" alt="Footer wave" /></div><!-- SETUP: Replace YOUR_USERNAME (all occurrences), YOUR_LINKEDIN and YOUR_EMAIL.
-     GitHub profile README requires a public repository named exactly as your username.
-     Remote image generators may be rate-limited. Remove any tool you haven't used or mark it as learning. -->
+**Stack:** React · TypeScript · Vite · Node.js · Supabase · PostgreSQL
+
+[Explore the project →](https://github.com/Pundarikaksha1/Aarogyadrishti)
+
+## Let's connect
+
+I'm interested in forward deployed engineering, full-stack product work, and thoughtful AI applications.
+
+**[LinkedIn](https://www.linkedin.com/in/vetchangi-pundarikaksha-1267631b6/)** · **[Email](mailto:pundarivetchangi@gmail.com)** · **[Portfolio repository](https://github.com/Pundarikaksha1/My-portfolio)**
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=100&amp;color=0:0D1117,50:172554,100:2563EB" alt="Blue wave footer" />
+</div>

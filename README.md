@@ -60,14 +60,53 @@ A multilingual **screening-to-care prototype** supporting registration, clinicia
 
 ## 05 · Certificates
 
-Course completion certificates issued by **Fynity Innovations LLP** in November 2026.
+**Fynity Innovations LLP** · November 2026
 
-| Area | Certificates (PDF) |
-| :--- | :--- |
-| **Generative AI** | [Generative AI Fundamentals](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/generative-ai-fundamentals.pdf) · [Generative AI](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/generative-ai.pdf) · [Prompt Engineering](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/prompt-engineering.pdf) · [Multimodal Generative AI](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/multimodal-generative-ai.pdf) |
-| **LLM engineering** | [LLM & Transformers](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/llm-and-transformers.pdf) · [LLM Application Development](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/llm-application-development.pdf) · [Embeddings, Vector Databases & RAG](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/embeddings-vector-databases-and-rag.pdf) · [Fine-Tuning & LLM Adaptation](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/fine-tuning-and-llm-adaptation.pdf) · [GenAI Evaluation & Production](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/genai-evaluation-and-production.pdf) |
-| **Full-stack development** | [HTML](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/html.pdf) · [CSS](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/css.pdf) · [JavaScript](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/javascript.pdf) · [MERN with AI](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/mern-with-ai.pdf) |
-| **Data & algorithms** | [Structured Query Language (SQL)](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/structured-query-language.pdf) · [Data Structures and Algorithms (DSA)](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/data-structures-and-algorithms.pdf) |
+<p align="center">
+  <a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/llm-application-development.pdf"><img src="https://raw.githubusercontent.com/Pundarikaksha1/Pundarikaksha1/main/assets/certificates/llm-application-development.png" width="350" alt="Open the LLM Application Development certificate (PDF)" /></a>
+  <a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/mern-with-ai.pdf"><img src="https://raw.githubusercontent.com/Pundarikaksha1/Pundarikaksha1/main/assets/certificates/mern-with-ai.png" width="350" alt="Open the MERN with AI certificate (PDF)" /></a>
+</p>
+
+### Browse all 15 certificates
+
+<details>
+  <summary>✨ <strong>Generative AI</strong> · 4 certificates</summary>
+  <ul>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/generative-ai-fundamentals.pdf">Generative AI Fundamentals</a></li>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/generative-ai.pdf">Generative AI</a></li>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/prompt-engineering.pdf">Prompt Engineering</a></li>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/multimodal-generative-ai.pdf">Multimodal Generative AI</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>🧠 <strong>LLM engineering</strong> · 5 certificates</summary>
+  <ul>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/llm-and-transformers.pdf">LLM &amp; Transformers</a></li>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/llm-application-development.pdf">LLM Application Development</a></li>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/embeddings-vector-databases-and-rag.pdf">Embeddings, Vector Databases &amp; RAG</a></li>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/fine-tuning-and-llm-adaptation.pdf">Fine-Tuning &amp; LLM Adaptation</a></li>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/genai-evaluation-and-production.pdf">GenAI Evaluation &amp; Production</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>💻 <strong>Full-stack development</strong> · 4 certificates</summary>
+  <ul>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/html.pdf">HTML</a></li>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/css.pdf">CSS</a></li>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/javascript.pdf">JavaScript</a></li>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/mern-with-ai.pdf">MERN with AI</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>🗃️ <strong>Data &amp; algorithms</strong> · 2 certificates</summary>
+  <ul>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/structured-query-language.pdf">Structured Query Language (SQL)</a></li>
+    <li><a href="https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/data-structures-and-algorithms.pdf">Data Structures and Algorithms (DSA)</a></li>
+  </ul>
+</details>
 
 ## 06 · Connect
 

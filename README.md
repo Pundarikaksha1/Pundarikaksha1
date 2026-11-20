@@ -56,7 +56,20 @@ A multilingual **screening-to-care prototype** supporting registration, clinicia
 
 [View the repository →](https://github.com/Pundarikaksha1/Aarogyadrishti)
 
-## 05 · Connect
+<a name="certificates"></a>
+
+## 05 · Certificates
+
+Course completion certificates issued by **Fynity Innovations LLP** in November 2026.
+
+| Area | Certificates (PDF) |
+| :--- | :--- |
+| **Generative AI** | [Generative AI Fundamentals](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/generative-ai-fundamentals.pdf) · [Generative AI](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/generative-ai.pdf) · [Prompt Engineering](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/prompt-engineering.pdf) · [Multimodal Generative AI](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/multimodal-generative-ai.pdf) |
+| **LLM engineering** | [LLM & Transformers](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/llm-and-transformers.pdf) · [LLM Application Development](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/llm-application-development.pdf) · [Embeddings, Vector Databases & RAG](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/embeddings-vector-databases-and-rag.pdf) · [Fine-Tuning & LLM Adaptation](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/fine-tuning-and-llm-adaptation.pdf) · [GenAI Evaluation & Production](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/genai-evaluation-and-production.pdf) |
+| **Full-stack development** | [HTML](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/html.pdf) · [CSS](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/css.pdf) · [JavaScript](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/javascript.pdf) · [MERN with AI](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/mern-with-ai.pdf) |
+| **Data & algorithms** | [Structured Query Language (SQL)](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/structured-query-language.pdf) · [Data Structures and Algorithms (DSA)](https://github.com/Pundarikaksha1/Pundarikaksha1/blob/main/certificates/data-structures-and-algorithms.pdf) |
+
+## 06 · Connect
 
 <div align="center">
   <p><strong>Have a real-world problem worth solving? Let's connect.</strong></p>
